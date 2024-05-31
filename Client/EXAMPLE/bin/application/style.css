@@ -1,0 +1,25 @@
+.dark-grey-background{
+    -fx-background-color: #46474A;
+}
+.gray-background{
+    -fx-background-color: #636566;
+}
+.transparent-background{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.radius{
+    -fx-background-radius: 100px;
+}
+.light-gray-background{
+    -fx-background-color: #DADADA
+}
+.messageDestinatario{
+    -fx-background-color: #DADADA;
+    -fx-background-radius:  20 0 20 20;
+    
+}
+.myMessage{
+    -fx-background-color: #E0FEC7;
+    -fx-background-radius:  0 20 20 20;
+}
